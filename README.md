@@ -23,4 +23,4 @@
 
 ### 🏆 Case Championship Participation  
 I participated in a case championship as part of a team, where we tackled real-world business problems and developed innovative solutions.  
-- **Personal Recommendation System for Passengers/Cистема персональных рекомендация для пассажиров**: [Link to project](https://github.com/OSAndreev/RZD_RecSys)  
+- **Personal Recommendation System for Passengers/Cистема персональных рекомендаций для пассажиров**: [Link to project](https://github.com/OSAndreev/RZD_RecSys)  
